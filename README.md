@@ -1,4 +1,4 @@
-# Group project - Fillit
+## Group project - Fillit
 
 ### Description
 
